@@ -17,6 +17,7 @@ The goal is to explore various **machine learning** and **deep learning** concep
 
 ## 📂 Project Structure
 MachineLearning/
+
 │-- datasets/ # Sample datasets
 
 │-- notebooks/ # Jupyter notebooks with experiments
